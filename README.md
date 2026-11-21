@@ -1,7 +1,7 @@
 # ASE-Portfolio-Jose
 
 **Name:** Jose, Eliniel A.  
-**Course:** CPELX230-330, Term 2 2026-2027  
+**Course:** CPELX330, Term 2 2026-2027  
 **Section:** COE232  
 **Institution:** National University College of Engineering  
 
