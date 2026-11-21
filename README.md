@@ -1,9 +1,9 @@
 # ASE-Portfolio-Jose
 
-**Name:** Jose, Eliniel A.
-**Course:** CPELX230-330, Term 2 2026-2027
-**Section:** COE232
-**Institution:** National University College of Engineering
+**Name:** Jose, Eliniel A.  
+**Course:** CPELX230-330, Term 2 2026-2027  
+**Section:** COE232  
+**Institution:** National University College of Engineering  
 
 ## About
 This repository is my portfolio for Agentic Software Engineering (ASE).
