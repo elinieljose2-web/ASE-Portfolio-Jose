@@ -1,6 +1,6 @@
 # Course Introduction
 
-CPELX230-330 introduces the principles of modern software engineering with a
+CPELX330 introduces the principles of modern software engineering with a
 focus on agentic software engineering: building software that uses AI agents
 capable of planning, deciding, and acting toward goals.
 
