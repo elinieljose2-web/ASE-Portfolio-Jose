@@ -1,6 +1,6 @@
 # Reflection from Part A: Concept Analysis
 
-**Course:** CPELX230-330 | **Activity:** Week 02-04, Exploring Agentic Software Engineering and Responsible AI
+**Course:** CPELX330 | **Activity:** Week 02-04, Exploring Agentic Software Engineering and Responsible AI
 
 ---
 
